@@ -1,0 +1,45 @@
+body
+{
+    font-family:Arial;
+    background-size:cover;
+    background-repeat:none;
+
+}
+.css
+{
+    width:20em;
+    padding-left:35%;
+
+
+}
+
+.text
+{
+    margin:4px;
+    padding:8px;
+    width:22em;
+    height:3em;
+}
+
+.loginbtn
+{
+    width:22em;
+    background: blue;
+
+    border:2px solid blue;
+    padding:2px;
+    color: white;
+
+}
+
+a
+{
+    padding:75px;
+    text-decoration: none;
+
+}
+
+
+b{
+    text-color:red;
+}

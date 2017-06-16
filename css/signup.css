@@ -1,0 +1,34 @@
+.text
+{
+    margin:4px;
+    padding:4px;
+    width:20em;
+    margin-left:2px;
+
+}
+
+.btn
+{
+    width:10em;
+    margin-left:30px;
+    background: green;
+    color:white;
+    border:2px solid green;
+    height:2em;
+
+}
+
+.account
+{
+    padding-right:20%;
+
+    padding-left:20%;
+    margin:4px;
+}
+
+body
+{
+    font-family:Arial;
+
+
+}
